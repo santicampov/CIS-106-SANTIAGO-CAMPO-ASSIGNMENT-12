@@ -1,0 +1,10 @@
+Correa,0.267
+Mendez,0.300
+Junior,0.275
+Messi,0.290
+Lenon,0.305
+Presley,0.275
+Campo,0.280
+Hilton,0.290
+West,0.260
+Jordan,0.295
